@@ -1,7 +1,0 @@
-cohere 
-voyageai 
-transformers 
-faiss-cpu 
-datasets 
-athina 
-wandb
