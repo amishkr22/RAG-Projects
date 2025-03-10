@@ -1,9 +1,0 @@
-cohere
-voyageai
-transformers
-faiss-cpu
-datasets
-python-dotenv
-athina
-wandb
-pyyaml

@@ -1,8 +1,0 @@
-.env
-
-logs/
-
-data/processed/
-
-__pycache__/
-*.pyc
