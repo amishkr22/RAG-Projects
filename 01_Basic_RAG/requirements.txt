@@ -3,3 +3,4 @@ langchain
 gradio
 pypdf
 ctransformer
+sentence-transformers
